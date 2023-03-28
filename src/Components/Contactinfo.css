@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+
+.contact {
+    
+        font-family: 'Lobster Two', cursive;
+        font-size: 2rem;
+        text-align: center;
+        margin: 5%;
+    
+}
+
+.imgcontact{
+    height: 20%;
+    width: 100%;
+}
+
+.contactbox {
+    border: 2px solid black;
+    margin: 10%;
+    padding: 5%;
+}
+
+.contactp {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.nom {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.listc {
+    list-style: inside;
+    font-family: 'Cormorant Garamond', serif;
+}

@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+
+
+.avj {
+    font-family: 'Lobster Two', cursive;
+    font-size: 2rem;
+    text-align: center;
+    margin: 5%;
+}
+
+.form {
+    display: block;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+.quizm {
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    margin: 7%;
+}
+
+.input {
+    font-family: 'Cormorant Garamond', serif;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-left: 2%;
+    display: block;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    user-zoom: fixed;
+}
+
+.btn{
+    background-color: rgba(0, 0, 0, 0.804);
+    color: white;
+    height: 30px;
+    width: 100px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1rem;
+    border-radius: 10px;
+}
+
+.success {
+    margin: 5px;
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+}
